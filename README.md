@@ -20,6 +20,8 @@ The exercise will cover these topics:
 > [Google Colab](https://colab.research.google.com/github/rasvob/PopAI-FEI-Workshop/blob/main/ws_01.ipynb)
 
 ## Self-hosting LLMs using Huggingface
+* 💡Beware that free-tier Colab does not have enough resources
+
 > [Jupyter Notebook](https://github.com/rasvob/PopAI-FEI-Workshop/blob/main/ws_02.ipynb)
 
 > [Google Colab](https://colab.research.google.com/github/rasvob/PopAI-FEI-Workshop/blob/main/ws_02.ipynb)
