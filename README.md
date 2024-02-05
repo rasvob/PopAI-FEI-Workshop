@@ -14,7 +14,7 @@ The exercise will cover these topics:
 * Vector representation of text data and searching for similar words using vector distance 
 * Design of own deep learning model for generating "Harry Potter"-like text using Keras framework from scratch
 
-## Stable Diffusion as an AI Image Generator 
+## Stable Diffusion as an AI Text-To-Image Generator 
 > [Jupyter Notebook](https://github.com/rasvob/PopAI-FEI-Workshop/blob/main/ws_01.ipynb)
 
 > [Google Colab](https://colab.research.google.com/github/rasvob/PopAI-FEI-Workshop/blob/main/ws_01.ipynb)
