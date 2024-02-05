@@ -2,7 +2,6 @@
 
 Feel free to [Radek](radek.svoboda@vsb.cz) or [Michal](michal.vasinek@vsb.cz) if you have any questions or want to discuss any topic from the workshop 😊
 
-All authorship is mentioned where possible.
 
 # Content of the workshop
 The aim of the workshop is to get an overview of possibilities in the generative artificial intelligence (GenAI) domain.
