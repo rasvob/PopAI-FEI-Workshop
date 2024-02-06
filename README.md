@@ -2,16 +2,14 @@
 
 Feel free to [Radek](radek.svoboda@vsb.cz) or [Michal](michal.vasinek@vsb.cz) if you have any questions or want to discuss any topic from the workshop 😊
 
-
 # Content of the workshop
 The aim of the workshop is to get an overview of possibilities in the generative artificial intelligence (GenAI) domain.
 
 We will use mainly [ChatGPT](https://chat.openai.com/) and [Huggingface](https://huggingface.co/).
 
-The exercise will cover these topics:
-* GenAI tools for image data using Huggingface models
-* Vector representation of text data and searching for similar words using vector distance 
-* Design of own deep learning model for generating "Harry Potter"-like text using Keras framework from scratch
+The workshop will cover these topics:
+* How to use GenAI tools for image data using Huggingface models (Stable Diffusion) in Python
+* How to build simple interface for self-hosted LLM-based chatbot in Jupyter notebook
 
 ## Stable Diffusion as an AI Text-To-Image Generator 
 > [Jupyter Notebook](https://github.com/rasvob/PopAI-FEI-Workshop/blob/main/ws_01.ipynb)
