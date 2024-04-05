@@ -2,6 +2,8 @@
 
 Feel free to [Radek](radek.svoboda@vsb.cz) or [Michal](michal.vasinek@vsb.cz) if you have any questions or want to discuss any topic from the workshop 😊
 
+📌 [Slides presented at the workshop](https://github.com/rasvob/PopAI-FEI-Workshop/blob/main/presentations/ai-460-13-02-2024.pdf)
+
 # Content of the workshop
 The aim of the workshop is to get an overview of possibilities in the generative artificial intelligence (GenAI) domain.
 
